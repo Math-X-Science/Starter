@@ -24,9 +24,9 @@ and i am a beginner in programming, not very understand programming,
 but I am very interested in programming.
 I hope I can become a programming master in the future.Thanks♪(･ω･)ﾉ
 
--I love playing games,eating dilicious food and play with my friends.
--I like do my love things.I will give 100 percent of my attention to the things i love.
--My mind is more divergent, and I take into account a lot of different points. 
--I am better at teaching others what I know than learning something. I am better at empathy.
+- I love playing games,eating dilicious food and play with my friends.
+- I like do my love things.I will give 100 percent of my attention to the things i love.
+- My mind is more divergent, and I take into account a lot of different points. 
+- I am better at teaching others what I know than learning something. I am better at empathy.
  Thanks for your reading!
 ## ID(改成你自己的)
