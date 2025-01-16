@@ -27,4 +27,4 @@ Hello, I'm a student majoring in Artificial Intelligence at Xiamen University of
 🌟<i>Hoping for continuous progress defines my vision for the future!</i>📈  
 
 ## Fork 这个仓库，并且在这个文件之后写上你们自己的。
-## ID(改成你自己的)
+## ID(改成你自己的).
