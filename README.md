@@ -24,7 +24,7 @@ Hello, I'm a student majoring in Artificial Intelligence at Xiamen University of
 
 👋<i>Hello! I'm FuqiangZhou, a newbie in computer science. </i>🌱  
 🏸<i>I enjoy playing badminton and surfing the internet. </i>📱  
-🌟<i>Hoping for continuous progress defines my vision for the future </i>📈  
+🌟<i>Hoping for continuous progress defines my vision for the future!!!</i>📈  
 
 ## Fork 这个仓库，并且在这个文件之后写上你们自己的。
 ## ID(改成你自己的)
